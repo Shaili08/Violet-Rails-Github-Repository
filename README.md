@@ -6,5 +6,6 @@
  ![email](https://user-images.githubusercontent.com/126420944/221444879-2f3bb5dd-e4b9-4d30-bec4-6eb1c8e597cc.png)
  ![E-commerce](https://user-images.githubusercontent.com/126420944/221445060-390dd18f-3df9-4087-bf43-eef76cc064c5.png)
  ![Blogging](https://user-images.githubusercontent.com/126420944/221445158-99d269b8-fee9-40a9-a033-f81144716e82.png)
+ ![Forums](https://user-images.githubusercontent.com/126420944/221445240-69aee3ad-8ee1-483d-93e7-266329d63bed.png)
 
 
