@@ -14,6 +14,8 @@
  ![BENEFITS OF VIOLET RAILS](https://user-images.githubusercontent.com/126420944/221445835-59edba17-7c1e-4cf2-8b53-d94fdd5d3e78.png)
  ![documentation](https://user-images.githubusercontent.com/126420944/221446171-7c90524a-3036-4bd2-8b5d-4e594df22440.png)
  ![Blog](https://user-images.githubusercontent.com/126420944/221446505-e3647330-67a9-426e-877d-03278824ea39.png)
+ ![The joys of implementing an email service](https://user-images.githubusercontent.com/126420944/221446816-dcc96975-ab4e-49fc-9381-961030ba3de1.png)
+
 
 
 
