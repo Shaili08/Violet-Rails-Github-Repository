@@ -19,6 +19,7 @@
  ![Violet Rails is officially released](https://user-images.githubusercontent.com/126420944/221447223-d12ae8ab-4380-42d1-bccb-ea6e17c6193a.png)
  ![Violet Rails Coming Soon To Open Source](https://user-images.githubusercontent.com/126420944/221447375-ccd01b36-76dc-4196-a625-d5dc5f5edca4.png)
  ![Archive](https://user-images.githubusercontent.com/126420944/221447615-227189fb-9527-4d04-860b-564693c6b168.png)
+ ![tags](https://user-images.githubusercontent.com/126420944/221447878-92850199-3b91-43d3-86a8-8f373601a4f0.png)
 
 
 
