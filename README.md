@@ -16,6 +16,8 @@
  ![Blog](https://user-images.githubusercontent.com/126420944/221446505-e3647330-67a9-426e-877d-03278824ea39.png)
  ![The joys of implementing an email service](https://user-images.githubusercontent.com/126420944/221446816-dcc96975-ab4e-49fc-9381-961030ba3de1.png)
  ![time](https://user-images.githubusercontent.com/126420944/221447046-4a9a9f78-4840-4a66-af03-fc55fa6c371c.png)
+ ![Violet Rails is officially released](https://user-images.githubusercontent.com/126420944/221447223-d12ae8ab-4380-42d1-bccb-ea6e17c6193a.png)
+
 
 
 
