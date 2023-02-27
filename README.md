@@ -11,6 +11,7 @@
  ![Collaborating with your team](https://user-images.githubusercontent.com/126420944/221445474-3e80b45d-44b1-4c28-a185-78ca72a639b8.png)
  ![Tip top Search Engine Optimization](https://user-images.githubusercontent.com/126420944/221445614-53a08566-2c3a-495b-b033-c93933754f95.png)
  ![Be in control of your data](https://user-images.githubusercontent.com/126420944/221445666-b14e072d-6663-4498-bbd8-276593a35a9c.png)
+ ![BENEFITS OF VIOLET RAILS](https://user-images.githubusercontent.com/126420944/221445835-59edba17-7c1e-4cf2-8b53-d94fdd5d3e78.png)
 
 
 
