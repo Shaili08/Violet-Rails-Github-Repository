@@ -8,5 +8,7 @@
  ![Blogging](https://user-images.githubusercontent.com/126420944/221445158-99d269b8-fee9-40a9-a033-f81144716e82.png)
  ![Forums](https://user-images.githubusercontent.com/126420944/221445240-69aee3ad-8ee1-483d-93e7-266329d63bed.png)
  ![file storage](https://user-images.githubusercontent.com/126420944/221445350-d6c8e452-4885-402a-ad3a-bdf1a990667f.png)
+ ![Collaborating with your team](https://user-images.githubusercontent.com/126420944/221445474-3e80b45d-44b1-4c28-a185-78ca72a639b8.png)
+
 
 
